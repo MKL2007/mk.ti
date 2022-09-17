@@ -566,3 +566,102 @@ ul li {
   position: relative;
   left: 20px;
 }
+
+@media (max-width: 400px) {
+  .p_child1 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child2 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child3 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child4 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child5 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child6 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    height: 5000px;
+  }
+}
+
+@media (max-width: 400px) {
+  .child5 {
+    position: relative;
+    height: 500px;
+    top: 295px;
+  }
+}
+
+@media (max-width: 400px) {
+  .child4 {
+    position: relative;
+    top: 680px;
+    height: 500px;
+  }
+}
+
+@media (max-width: 400px) {
+  .child6 {
+    position: relative;
+    top: 965px;
+    height: 500px;
+  }
+}
+
+@media (max-width: 400px) {
+  .child3 {
+    position: relative;
+    top: 1085px;
+  }
+}
+
+@media (max-width: 400px) {
+  .child2 {
+    position: relative;
+    top: 315px;
+  }
+}
+
+@media (max-width: 400px) {
+  .child1 {
+    position: relative;
+    top: 80px;
+  }
+}
