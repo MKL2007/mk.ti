@@ -615,53 +615,53 @@ ul li {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .container {
-    height: 5450px;
+    height: 5200px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .child5 {
     position: relative;
     height: 500px;
-    top: 295px;
+    top: 290px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .child4 {
     position: relative;
-    top: 680px;
+    top: 710px;
     height: 500px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .child6 {
     position: relative;
-    top: 965px;
+    top: 1025px;
     height: 500px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .child3 {
     position: relative;
-    top: 1085px;
+    top: 1140px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .child2 {
     position: relative;
-    top: 315px;
+    top: 305px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 360px) {
   .child1 {
     position: relative;
-    top: 80px;
+    top: 10px;
   }
 }
