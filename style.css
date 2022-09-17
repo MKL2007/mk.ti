@@ -288,7 +288,7 @@ ul li {
 }
 
 .container {
-  height: 5500px;
+  height: 4800px;
   width: 700px;
   justify-content: center;
   align-items: top;
@@ -617,7 +617,7 @@ ul li {
 
 @media (max-width: 400px) {
   .container {
-    height: 5000px;
+    height: 5200px;
   }
 }
 
