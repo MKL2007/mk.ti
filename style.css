@@ -552,17 +552,19 @@ ul li {
 
 .somos {
   position: relative;
-  background: #fffff;
+  background: #ffff;
   right: 70px;
 }
 
 .bio {
   position: relative;
-  background: #fffff;
+  background: #ffff;
   left: 50px;
 }
 
 .casa {
+  background: #ffff;
+  margin-bottom: 20px;
   position: relative;
   left: 20px;
 }
